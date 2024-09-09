@@ -1,0 +1,27 @@
+1.What is machine Learning?
+Ans:Machine learning is a subset of AI that allows machine to learn and improves their performances based on Data.
+2.Actual Definition:- 
+A computer program is said to learn from Experience E respect to some Task T and Performance Measure P , it its performance on T as measured by P improves with Experiences E.(Tom Mitchell).
+
+4.Types of machine learning
+ans:-supervised learning.
+unsupervised learning.
+semisupervised learning.
+reinforcement learning.
+5.Supervised learning
+Linear Regression. ...
+Logistic Regression. ...
+Polynomial Regression
+Ridge Regression
+Lasso Regression
+6.Unsupervised learning
+ clustering
+ visualization, 
+dimensionality reduction, 
+ association rule learning.
+Anamoly detection
+6.Reinforcement Learning
+(1) positive reinforcement
+(2) avoidance learning, or negative reinforcement
+ (3) extinction
+(4) punishment
